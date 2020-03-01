@@ -14,3 +14,9 @@ The first mouse had given up and drowned, and the second mouse whipped butter fr
 * Swift
 * Objective C
 * C, C++, Java
+
+## Education
+I have looked  a full course of Alexander Skutarenko and passed all the homework, **including the level of superman**
+
+## English
+English level is intermediate
